@@ -96,3 +96,5 @@
 [10Apr2025 00:25:24.926] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (32.761s)! For help, type "help"
 [10Apr2025 00:25:24.940] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
 [10Apr2025 00:33:44.695] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@230737fd[id=<null>,name=estebanquito67,properties={},legacy=false] (/100.100.238.14:64614) lost connection: Disconnected
+[10Apr2025 00:42:18.441] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@24e6b165[id=<null>,name=estebanquito67,properties={},legacy=false] (/100.100.238.14:65047) lost connection: Disconnected
+[10Apr2025 00:42:24.991] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d714d77[id=<null>,name=estebanquito67,properties={},legacy=false] (/100.100.238.14:65053) lost connection: Disconnected
