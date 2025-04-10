@@ -624,3 +624,7 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Apr2025 00:46:57.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: https://www.curseforge.com/minecraft/modpacks/terrafirmagreg-modern<--[HERE]
 [10Apr2025 00:50:24.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
 [10Apr2025 00:50:24.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 00:55:24.899] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:55:24.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 01:00:24.898] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 01:00:24.903] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
