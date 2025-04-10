@@ -618,3 +618,9 @@ java.lang.IllegalAccessException: class io.netty.util.internal.PlatformDependent
 [10Apr2025 00:42:24.891] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'net.minecraftforge.network.HandshakeMessages$S2CModList' to 'fml:handshake' sequence 1
 [10Apr2025 00:42:24.941] [Server thread/DEBUG] [net.minecraftforge.network.HandshakeHandler/FMLHANDSHAKE]: Sending ticking packet info 'Registry minecraft:command_argument_type' to 'fml:handshake' sequence 2
 [10Apr2025 00:42:24.991] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@5d714d77[id=<null>,name=estebanquito67,properties={},legacy=false] (/100.100.238.14:65053) lost connection: Disconnected
+[10Apr2025 00:45:24.928] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:45:24.932] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[10Apr2025 00:46:57.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[10Apr2025 00:46:57.743] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: https://www.curseforge.com/minecraft/modpacks/terrafirmagreg-modern<--[HERE]
+[10Apr2025 00:50:24.900] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[10Apr2025 00:50:24.905] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
