@@ -6875,3 +6875,34 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03:06:10] [Server thread/INFO]: estebanquito67 has made the advancement [Stone Age]
 [03:10:53] [Server thread/INFO]: estebanquito67 lost connection: Disconnected
 [03:10:53] [Server thread/INFO]: estebanquito67 left the game
+[03:29:04] [Server thread/INFO]: [Handshake] Sending channel query
+[03:29:04] [Netty Epoll Server IO #1/INFO]: [Handshake] Receiving client channels
+[03:29:04] [Netty Epoll Server IO #1/INFO]: [Handshake] Handshake completed successfully
+[03:29:05] [Server thread/INFO]: estebanquito67[/100.100.238.14:55759] logged in with entity id 10749 at (-49.68509774834428, 77.0, 8.415506110323804)
+[03:29:05] [Server thread/INFO]: Sending server config values to client
+[03:29:05] [Server thread/INFO]: Syncing config to estebanquito67 (5f7fc07d-864b-3d18-bd78-a06cdd184c98)
+[03:29:05] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:29:05] [Server thread/INFO]: estebanquito67 joined the game
+[03:29:05] [Netty Epoll Server IO #1/INFO]: [showmeyourskin] Client of estebanquito67 accepted server config.
+[03:29:05] [Netty Epoll Server IO #1/INFO]: Receiving client config
+[03:29:05] [Netty Epoll Server IO #1/INFO]: Priority overwritten for player estebanquito67. Claiming: GRAVE / Robbing: INVENTORY
+[03:29:05] [Server thread/INFO]: [betternether] Freeze Registry[ResourceKey[minecraft:root / worlds_together:worldgen/betterx/surface_rules] (Stable)]
+[03:29:05] [Server thread/INFO]: [bclib] Received Hello from Client. (server=3.0.14, client=3.0.14)
+[03:29:05] [Server thread/INFO]: [bclib] Sending Hello to Client. (server=3.0.14)
+[03:29:05] [Server thread/INFO]: [bclib] 	- Listing Mod bclib v3.0.14 (size: 2.2 MiB, download=true)
+[03:29:05] [Server thread/INFO]: [bclib] 	- Listing Mod betternether v9.0.10 (size: 21.9 MiB, download=true)
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.main
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.generator
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.blocks
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.items
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.biomes
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betternether.mobs
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.generator
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.main
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_bclib.biomes
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.entities
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.blocks
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.items
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Config bclib.CONFIG_betterend.enchantments
+[03:29:05] [Server thread/INFO]: [bclib] 	- Offering Folder /workspaces/cacorrosland/servidor_minecraft/bclib-sync (allowDelete=true)
+[03:32:04] [Server thread/INFO]: estebanquito67 has made the advancement [Getting an Upgrade]

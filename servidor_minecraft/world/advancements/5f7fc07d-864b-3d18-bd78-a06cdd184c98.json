@@ -1178,6 +1178,414 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-11 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
+    "criteria": {
+      "has_dirt": "2025-04-11 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "vinery:recipes/dirt_slab": {
+    "criteria": {
+      "has_dirt": "2025-04-11 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-11 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/dragons_blood_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-11 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/juniper_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-11 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/elder_chest": {
+    "criteria": {
+      "has_lots_of_items": "2025-04-11 02:59:34 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_sapling": {
+    "criteria": {
+      "has_recipe": "2025-04-11 03:00:19 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/wooden": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/cypress_planks": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/tools/cypress_broom": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:19 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/cypress_wood": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2025-04-11 03:00:19 +0000"
+    },
+    "done": true
+  },
+  "naturescompass:natures_compass_log": {
+    "criteria": {
+      "has_log": "2025-04-11 03:00:19 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
+    "criteria": {
+      "has_core_specification_item": "2025-04-11 03:00:20 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/decorations/oak_shrub": {
+    "criteria": {
+      "has_oak_sapling": "2025-04-11 03:00:27 +0000"
+    },
+    "done": true
+  },
+  "paraglider:root": {
+    "criteria": {
+      "crafting_table": "2025-04-11 03:00:52 +0000"
+    },
+    "done": true
+  },
+  "dungeonnowloading:story/root": {
+    "criteria": {
+      "obtain_crafting_table": "2025-04-11 03:00:52 +0000"
+    },
+    "done": true
+  },
+  "soulsweapons:root": {
+    "criteria": {
+      "crafting_table": "2025-04-11 03:00:52 +0000"
+    },
+    "done": true
+  },
+  "aquamirae:adventure/root": {
+    "criteria": {
+      "crafting_table": "2025-04-11 03:00:52 +0000"
+    },
+    "done": true
+  },
+  "plentyofarmors:armors/root": {
+    "criteria": {
+      "requirement": "2025-04-11 03:00:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2025-04-11 03:00:52 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/cypress_slab": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bear_trophy": {
+    "criteria": {
+      "has_bear_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/goat_trophy": {
+    "criteria": {
+      "has_goat_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blaze_trophy": {
+    "criteria": {
+      "has_blaze_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/building_blocks/cypress_stairs": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wolf_trophy": {
+    "criteria": {
+      "has_wolf_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/cypress_door": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/cypress_button": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/shields/shield_vanguard": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/cypress_pressure_plate": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_fence": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/spider_trophy": {
+    "criteria": {
+      "has_spider_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "mcdw:recipes/crossbows/crossbow_harpoon_crossbow": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/skeleton_horse_trophy": {
+    "criteria": {
+      "has_skeleton_horse_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/wither_skeleton_trophy": {
+    "criteria": {
+      "has_wither_skeleton_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/redstone/piston": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/cypress_sign": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/salmon_trophy": {
+    "criteria": {
+      "has_salmon_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/silverfish_trophy": {
+    "criteria": {
+      "has_silverfish_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/redstone/tag_piston": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/decorations/tag_smith_table": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/fox_trophy": {
+    "criteria": {
+      "has_fox_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bclib:recipes/combat/tag_shield": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/tropical_fish_trophy": {
+    "criteria": {
+      "has_tropical_fish_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/combat/shield": {
+    "criteria": {
+      "has_tag_minecraft_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/pufferfish_trophy": {
+    "criteria": {
+      "has_pufferfish_trophy": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
+    "criteria": {
+      "has_planks": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/cypress_trapdoor": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/redstone/cypress_fence_gate": {
+    "criteria": {
+      "has_item": "2025-04-11 03:00:56 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/ladder": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -1199,12 +1607,6 @@
   "betterend:recipes/decorations/lucernia_chair": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "paraglider:root": {
-    "criteria": {
-      "crafting_table": "2025-04-11 03:00:52 +0000"
     },
     "done": true
   },
@@ -1268,12 +1670,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/food/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-04-11 03:04:38 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/crafting_items/fabric_bolt_brown": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -1310,24 +1706,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/brown_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-04-11 02:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/stick": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "xercapaint:recipes/item_easel": {
     "criteria": {
       "has_item": "2025-04-11 03:01:22 +0000"
@@ -1337,12 +1715,6 @@
   "betternether:recipes/decorations/bamboo_taburet": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
-    "criteria": {
-      "has_apple": "2025-04-11 03:04:19 +0000"
     },
     "done": true
   },
@@ -1358,39 +1730,15 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorative_blocks.general/rocky_dirt": {
-    "criteria": {
-      "has_dirt": "2025-04-11 02:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_carpet": {
-    "criteria": {
-      "has_gray_wool": "2025-04-11 03:02:24 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/anchor_tree_sign": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
     },
     "done": true
   },
-  "handcrafted:recipes/misc/gray_cushion": {
-    "criteria": {
-      "has_gray_cushion": "2025-04-11 03:02:24 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/transportation/rail": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "vinery:recipes/dirt_slab": {
-    "criteria": {
-      "has_dirt": "2025-04-11 02:59:34 +0000"
     },
     "done": true
   },
@@ -1406,21 +1754,9 @@
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/redstone/mushroom_fir_gate": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/cyan_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -1442,12 +1778,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/building_blocks/cypress_slab": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/dragon_tree_taburet": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -1457,18 +1787,6 @@
   "betternether:recipes/decorations/birch_taburet": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/base_armors/spelunker_armor_helmet": {
-    "criteria": {
-      "has_torch": "2025-04-11 03:08:35 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/bear_trophy": {
-    "criteria": {
-      "has_bear_trophy": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -1539,18 +1857,6 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/goat_trophy": {
-    "criteria": {
-      "has_goat_trophy": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
   "decorative_blocks:recipes/decorative_blocks.general/lattice": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -1560,12 +1866,6 @@
   "betternether:recipes/decorations/nether_sakura_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_sapling": {
-    "criteria": {
-      "has_recipe": "2025-04-11 03:00:19 +0000"
     },
     "done": true
   },
@@ -1605,39 +1905,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/gray_banner": {
-    "criteria": {
-      "has_gray_wool": "2025-04-11 03:02:24 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/mushroom_fir_sign": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/orange_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/crafting_items/fabric_bolt_gray": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_stairs": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
     },
     "done": true
   },
@@ -1659,39 +1935,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/blaze_trophy": {
-    "criteria": {
-      "has_blaze_trophy": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/building_blocks/cypress_stairs": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/redstone/mossy_glowshroom_gate": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wolf_trophy": {
-    "criteria": {
-      "has_wolf_trophy": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/red_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/lever": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
     },
     "done": true
   },
@@ -1713,21 +1959,9 @@
     },
     "done": true
   },
-  "bewitchment:recipes/redstone/cypress_door": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/leather_wrapped_stick": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/redstone/cypress_button": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -1743,27 +1977,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/combat/stone_sword": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/cobblestone_wall": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/warped_taburet": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_axe": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
     },
     "done": true
   },
@@ -1773,39 +1989,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/decorations/oak_shrub": {
-    "criteria": {
-      "has_oak_sapling": "2025-04-11 03:00:27 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/shields/shield_vanguard": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/green_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/tenanea_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "immersive_armors:recipes/misc/wooden": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:19 +0000"
-    },
-    "done": true
-  },
-  "mcda:recipes/upgrade_cores/upgrade_core_verdant": {
-    "criteria": {
-      "has_core_specification_item": "2025-04-11 03:00:20 +0000"
     },
     "done": true
   },
@@ -1827,12 +2013,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/light_gray_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/anchor_tree_taburet": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -1848,12 +2028,6 @@
   "betterend:recipes/decorations/tenanea_fence": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-11 03:06:10 +0000"
     },
     "done": true
   },
@@ -1881,12 +2055,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/redstone/cypress_pressure_plate": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/pythadendron_sign": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -1899,33 +2067,9 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/yellow_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/bar_stool_cincinnasite": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/purple_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
-    "criteria": {
-      "has_item": "2025-04-11 03:06:10 +0000"
     },
     "done": true
   },
@@ -1947,21 +2091,9 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/cypress_fence": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/redstone/end_lotus_gate": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "dungeonnowloading:story/root": {
-    "criteria": {
-      "obtain_crafting_table": "2025-04-11 03:00:52 +0000"
     },
     "done": true
   },
@@ -1974,12 +2106,6 @@
   "betternether:recipes/decorations/mangrove_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/spider_trophy": {
-    "criteria": {
-      "has_spider_trophy": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -2007,12 +2133,6 @@
     },
     "done": true
   },
-  "comforts:sleeping_bag_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-04-11 03:02:24 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/nether_reed_chair": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -2028,12 +2148,6 @@
   "betternether:recipes/redstone/wart_gate": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/patched_carpet": {
-    "criteria": {
-      "has_patched_wool": "2025-04-11 03:02:09 +0000"
     },
     "done": true
   },
@@ -2115,18 +2229,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/decorations/cypress_chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-04-11 02:59:34 +0000"
-    },
-    "done": true
-  },
-  "mcdw:recipes/crossbows/crossbow_harpoon_crossbow": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/redstone/dragon_tree_gate": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -2157,12 +2259,6 @@
     },
     "done": true
   },
-  "vinery:main/get_apple": {
-    "criteria": {
-      "apple": "2025-04-11 03:04:19 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/redstone/willow_gate": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -2172,12 +2268,6 @@
   "betterend:recipes/decorations/tenanea_ladder": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/skeleton_horse_trophy": {
-    "criteria": {
-      "has_skeleton_horse_trophy": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -2199,21 +2289,9 @@
     },
     "done": true
   },
-  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
-    "criteria": {
-      "has_torch": "2025-04-11 03:08:35 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/mossy_glowshroom_ladder": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/wither_skeleton_trophy": {
-    "criteria": {
-      "has_wither_skeleton_trophy": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -2226,18 +2304,6 @@
   "betternether:recipes/decorations/crimson_ladder": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/lime_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/building_blocks/cypress_planks": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:19 +0000"
     },
     "done": true
   },
@@ -2283,57 +2349,15 @@
     },
     "done": true
   },
-  "wetlands:recipes/bog_iron_ingot": {
-    "criteria": {
-      "has_bog_iron_ingot": "2025-04-11 03:03:10 +0000"
-    },
-    "done": true
-  },
-  "betternether:recipes/redstone/piston": {
-    "criteria": {
-      "has_tag_minecraft_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/wart_fence": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
     },
     "done": true
   },
-  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_item": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:recipes/food/cooking/beetroot_soup": {
-    "criteria": {
-      "has_beetroot": "2025-04-11 03:04:38 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/chair_cincinnasite": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/tools/cypress_broom": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:19 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/mine_stone": {
-    "criteria": {
-      "get_stone": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/furnace": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
     },
     "done": true
   },
@@ -2367,24 +2391,6 @@
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-11 03:04:38 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/cypress_sign": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/birch_chair": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -2397,21 +2403,9 @@
     },
     "done": true
   },
-  "wetlands:recipes/bog_iron_blocks": {
-    "criteria": {
-      "has_bog_iron": "2025-04-11 03:03:00 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/redstone/umbrella_tree_gate": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/stone": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
     },
     "done": true
   },
@@ -2421,27 +2415,9 @@
     },
     "done": true
   },
-  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
-    "criteria": {
-      "has_torch": "2025-04-11 03:08:35 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/black_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "bakery:recipes/cupcake_display": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/salmon_trophy": {
-    "criteria": {
-      "has_salmon_trophy": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -2460,24 +2436,6 @@
   "betterend:recipes/decorations/helix_tree_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/silverfish_trophy": {
-    "criteria": {
-      "has_silverfish_trophy": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "soulsweapons:root": {
-    "criteria": {
-      "crafting_table": "2025-04-11 03:00:52 +0000"
-    },
-    "done": true
-  },
-  "wetlands:recipes/fume_trap": {
-    "criteria": {
-      "requirement": "2025-04-11 03:04:49 +0000"
     },
     "done": true
   },
@@ -2511,12 +2469,6 @@
     },
     "done": true
   },
-  "bewitchment:recipes/building_blocks/cypress_wood": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:19 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/copy_tool_assembly": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -2529,21 +2481,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/tools/stone_pickaxe": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/acacia_taburet": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/red_dye_from_beetroot": {
-    "criteria": {
-      "has_beetroot": "2025-04-11 03:04:38 +0000"
     },
     "done": true
   },
@@ -2577,12 +2517,6 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2025-04-11 03:00:19 +0000"
-    },
-    "done": true
-  },
   "vinery:recipes/campfire": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -2598,12 +2532,6 @@
   "betternether:recipes/decorations/nether_sakura_fence": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "naturescompass:natures_compass_log": {
-    "criteria": {
-      "has_log": "2025-04-11 03:00:19 +0000"
     },
     "done": true
   },
@@ -2628,12 +2556,6 @@
   "betterend:recipes/decorations/dragon_tree_ladder": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/blue_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -2664,12 +2586,6 @@
   "betterend:recipes/decorations/end_lotus_sign": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/barrel": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -2721,36 +2637,6 @@
     },
     "done": true
   },
-  "aquamirae:adventure/root": {
-    "criteria": {
-      "crafting_table": "2025-04-11 03:00:52 +0000"
-    },
-    "done": true
-  },
-  "bclib:recipes/redstone/tag_piston": {
-    "criteria": {
-      "has_tag_minecraft_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_shovel": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/gray_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/dragons_blood_chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-04-11 02:59:34 +0000"
-    },
-    "done": true
-  },
   "mcda:recipes/crafting_items/fabric_bolt_purple": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -2760,18 +2646,6 @@
   "betternether:recipes/decorations/dark_oak_bar_stool": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/juniper_chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-04-11 02:59:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/gray_bed": {
-    "criteria": {
-      "has_gray_wool": "2025-04-11 03:02:24 +0000"
     },
     "done": true
   },
@@ -2823,39 +2697,15 @@
     },
     "done": true
   },
-  "plentyofarmors:armors/root": {
-    "criteria": {
-      "requirement": "2025-04-11 03:00:52 +0000"
-    },
-    "done": true
-  },
-  "comforts:hammock_gray": {
-    "criteria": {
-      "has_gray_wool": "2025-04-11 03:02:24 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/dark_oak_chair": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
     },
     "done": true
   },
-  "bclib:recipes/decorations/tag_smith_table": {
-    "criteria": {
-      "has_tag_minecraft_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "farmersdelight:recipes/farmersdelight/flint_knife": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/white_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -2889,12 +2739,6 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/light_blue_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "phantasm:recipes/tools/crystalline_pickaxe": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
@@ -2925,27 +2769,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/fox_trophy": {
-    "criteria": {
-      "has_fox_trophy": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
-  "twigs:recipes/lamps/lamp": {
-    "criteria": {
-      "has_item": "2025-04-11 03:08:35 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/rubeus_ladder": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "bclib:recipes/combat/tag_shield": {
-    "criteria": {
-      "has_tag_minecraft_planks": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -2961,21 +2787,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/coal_block": {
-    "criteria": {
-      "has_coal": "2025-04-11 03:06:08 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/iron_hammer": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/tropical_fish_trophy": {
-    "criteria": {
-      "has_tropical_fish_trophy": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -2997,39 +2811,15 @@
     },
     "done": true
   },
-  "betternether:recipes/combat/shield": {
-    "criteria": {
-      "has_tag_minecraft_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "sawmill:recipes/sawmill": {
     "criteria": {
       "has_sticks": "2025-04-11 03:01:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/torch": {
-    "criteria": {
-      "has_the_recipe": "2025-04-11 03:08:33 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:recipes/building_blocks/pink_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/misc/thallasium_sword_handle": {
     "criteria": {
       "has_item.minecraft.stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/pufferfish_trophy": {
-    "criteria": {
-      "has_pufferfish_trophy": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -3063,21 +2853,9 @@
     },
     "done": true
   },
-  "handcrafted:recipes/misc/gray_sheet": {
-    "criteria": {
-      "has_gray_sheet": "2025-04-11 03:02:24 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/nether_sakura_taburet": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/decorations/elder_chest": {
-    "criteria": {
-      "has_lots_of_items": "2025-04-11 02:59:34 +0000"
     },
     "done": true
   },
@@ -3087,33 +2865,15 @@
     },
     "done": true
   },
-  "regions_unexplored:recipes/building_blocks/magenta_painted_planks": {
-    "criteria": {
-      "has_planks": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/anchor_tree_fence": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
     },
     "done": true
   },
-  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
-    "criteria": {
-      "has_any_ingredient": "2025-04-11 03:04:38 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/wart_chair": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "bewitchment:recipes/redstone/cypress_trapdoor": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:56 +0000"
     },
     "done": true
   },
@@ -3159,45 +2919,15 @@
     },
     "done": true
   },
-  "bewitchment:recipes/redstone/cypress_fence_gate": {
-    "criteria": {
-      "has_item": "2025-04-11 03:00:56 +0000"
-    },
-    "done": true
-  },
   "betternether:recipes/decorations/anchor_tree_ladder": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
   "betterend:recipes/decorations/umbrella_tree_taburet": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/tools/stone_hoe": {
-    "criteria": {
-      "has_cobblestone": "2025-04-11 03:06:10 +0000"
-    },
-    "done": true
-  },
-  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
-    "criteria": {
-      "has_torch": "2025-04-11 03:08:35 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/root": {
-    "criteria": {
-      "crafting_table": "2025-04-11 03:00:52 +0000"
     },
     "done": true
   },
@@ -3228,6 +2958,276 @@
   "betterend:recipes/decorations/dragon_tree_chair": {
     "criteria": {
       "has_stick": "2025-04-11 03:01:22 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/patched_carpet": {
+    "criteria": {
+      "has_patched_wool": "2025-04-11 03:02:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_carpet": {
+    "criteria": {
+      "has_gray_wool": "2025-04-11 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_cushion": {
+    "criteria": {
+      "has_gray_cushion": "2025-04-11 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_banner": {
+    "criteria": {
+      "has_gray_wool": "2025-04-11 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-04-11 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_bed": {
+    "criteria": {
+      "has_gray_wool": "2025-04-11 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "comforts:hammock_gray": {
+    "criteria": {
+      "has_gray_wool": "2025-04-11 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/gray_sheet": {
+    "criteria": {
+      "has_gray_sheet": "2025-04-11 03:02:24 +0000"
+    },
+    "done": true
+  },
+  "wetlands:recipes/bog_iron_blocks": {
+    "criteria": {
+      "has_bog_iron": "2025-04-11 03:03:00 +0000"
+    },
+    "done": true
+  },
+  "wetlands:recipes/bog_iron_ingot": {
+    "criteria": {
+      "has_bog_iron_ingot": "2025-04-11 03:03:10 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/apple_cider": {
+    "criteria": {
+      "has_apple": "2025-04-11 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/get_apple": {
+    "criteria": {
+      "apple": "2025-04-11 03:04:19 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-11 03:04:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/food/cooking/beetroot_soup": {
+    "criteria": {
+      "has_beetroot": "2025-04-11 03:04:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/vegetable_soup": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-11 03:04:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/red_dye_from_beetroot": {
+    "criteria": {
+      "has_beetroot": "2025-04-11 03:04:38 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/ratatouille": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-11 03:04:38 +0000"
+    },
+    "done": true
+  },
+  "wetlands:recipes/fume_trap": {
+    "criteria": {
+      "requirement": "2025-04-11 03:04:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2025-04-11 03:06:08 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_bricks": {
+    "criteria": {
+      "has_item": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/cobblestone_bricks/cobblestone_brick_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_item": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-11 03:06:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/torch": {
+    "criteria": {
+      "has_the_recipe": "2025-04-11 03:08:33 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/base_armors/spelunker_armor_helmet": {
+    "criteria": {
+      "has_torch": "2025-04-11 03:08:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorations/torch_from_chandelier": {
+    "criteria": {
+      "has_torch": "2025-04-11 03:08:35 +0000"
+    },
+    "done": true
+  },
+  "betternether:recipes/building_blocks/whispering_gourd_lantern": {
+    "criteria": {
+      "has_torch": "2025-04-11 03:08:35 +0000"
+    },
+    "done": true
+  },
+  "twigs:recipes/lamps/lamp": {
+    "criteria": {
+      "has_item": "2025-04-11 03:08:35 +0000"
+    },
+    "done": true
+  },
+  "decorative_blocks:recipes/decorative_blocks.general/chandelier": {
+    "criteria": {
+      "has_torch": "2025-04-11 03:08:35 +0000"
     },
     "done": true
   },
