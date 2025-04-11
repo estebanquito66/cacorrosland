@@ -3231,5 +3231,29 @@
     },
     "done": true
   },
+  "clutter:recipes/misc/brick_kiln": {
+    "criteria": {
+      "has_furnace": "2025-04-11 03:30:18 +0000"
+    },
+    "done": true
+  },
+  "betterend:recipes/misc/end_stone_smelter": {
+    "criteria": {
+      "has_tag_c_furnaces": "2025-04-11 03:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-04-11 03:30:18 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/upgrade_tools": {
+    "criteria": {
+      "stone_pickaxe": "2025-04-11 03:32:04 +0000"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
