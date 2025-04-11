@@ -11,6 +11,515 @@
     },
     "done": true
   },
+  "spellbladenext:spellblades/root": {
+    "criteria": {
+      "always": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/bone_meal": {
+    "criteria": {
+      "has_tooth": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:blaze_bell": {
+    "criteria": {
+      "has_gold_ingot": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_elephant_from_campfire_cooking": {
+    "criteria": {
+      "has_elephant": "2025-04-11 02:14:37 +0000",
+      "has_cooked_elephant": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_giraffe": {
+    "criteria": {
+      "has_giraffe": "2025-04-11 02:14:37 +0000",
+      "has_cooked_giraffe": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_ostrich_from_smoking": {
+    "criteria": {
+      "has_ostrich": "2025-04-11 02:14:37 +0000",
+      "has_cooked_ostrich": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/armored_ice_skates": {
+    "criteria": {
+      "has_fur_boots": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/misc/snowflake_banner_pattern": {
+    "criteria": {
+      "has_packed_snowball": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_ostrich_from_campfire_cooking": {
+    "criteria": {
+      "has_ostrich": "2025-04-11 02:14:37 +0000",
+      "has_cooked_ostrich": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/lexicon": {
+    "criteria": {
+      "has_book": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_elephant": {
+    "criteria": {
+      "has_elephant": "2025-04-11 02:14:37 +0000",
+      "has_cooked_elephant": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "rpg_classes:root": {
+    "criteria": {
+      "always": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/root": {
+    "criteria": {
+      "seeds": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_ostrich": {
+    "criteria": {
+      "has_ostrich": "2025-04-11 02:14:37 +0000",
+      "has_cooked_ostrich": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "mythicmobs:mythicmobs": {
+    "criteria": {
+      "tick": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
+    "criteria": {
+      "has_fur_armor": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "soaringstructures2:soaringstart": {
+    "criteria": {
+      "adv_test": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "vinery:main/root": {
+    "criteria": {
+      "seeds": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "totw_reworked:root": {
+    "criteria": {
+      "sample_trigger": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_elephant_from_smoking": {
+    "criteria": {
+      "has_elephant": "2025-04-11 02:14:37 +0000",
+      "has_cooked_elephant": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_giraffe_from_campfire_cooking": {
+    "criteria": {
+      "has_giraffe": "2025-04-11 02:14:37 +0000",
+      "has_cooked_giraffe": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion_from_smoking": {
+    "criteria": {
+      "has_lion": "2025-04-11 02:14:37 +0000",
+      "has_cooked_lion": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/ice_skates": {
+    "criteria": {
+      "has_fur_boots": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:guardian_block_granite": {
+    "criteria": {
+      "has_stone": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:guardian_bowls": {
+    "criteria": {
+      "has_bowl": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-04-11 02:14:37 +0000",
+      "inv_changed-diamond": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:guardian_block": {
+    "criteria": {
+      "has_stone": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_giraffe_from_smoking": {
+    "criteria": {
+      "has_giraffe": "2025-04-11 02:14:37 +0000",
+      "has_cooked_giraffe": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "repurposed_structures:root": {
+    "criteria": {
+      "always": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "archon:root": {
+    "criteria": {
+      "tick": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion_from_campfire_cooking": {
+    "criteria": {
+      "has_lion": "2025-04-11 02:14:37 +0000",
+      "has_cooked_lion": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "wetlands:root": {
+    "criteria": {
+      "find_swamp": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_lion": {
+    "criteria": {
+      "has_lion": "2025-04-11 02:14:37 +0000",
+      "has_cooked_lion": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_crab_from_campfire_cooking": {
+    "criteria": {
+      "has_crab": "2025-04-11 02:14:37 +0000",
+      "has_cooked_crab": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "bakery:main/root": {
+    "criteria": {
+      "seeds": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_crab_from_smoking": {
+    "criteria": {
+      "has_crab": "2025-04-11 02:14:37 +0000",
+      "has_cooked_crab": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "more_rpg_content:root": {
+    "criteria": {
+      "always": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:guardian_block_sandstone": {
+    "criteria": {
+      "has_stone": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/cooked_crab": {
+    "criteria": {
+      "has_crab": "2025-04-11 02:14:37 +0000",
+      "has_cooked_crab": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "guardiansgalore:guardian_block_diorite": {
+    "criteria": {
+      "has_stone": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
+    "criteria": {
+      "has_fur_armor": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "livingthings:recipes/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-11 02:14:37 +0000",
+      "has_tooth": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
+    "criteria": {
+      "has_fur_armor": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
+    "criteria": {
+      "has_fur_armor": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "besmirchment:demonic_deed": {
+    "criteria": {
+      "has_item": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/blue_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "meadow:recipes/cheese_bread": {
+    "criteria": {
+      "has_bread": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "variantshields:recipes/decorations/shield": {
+    "criteria": {
+      "has_variant_item": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/green_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/yellow_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/shield": {
+    "criteria": {
+      "has_the_recipe": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/gray_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/brewing/compound_brewing_stand": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/red_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/gilded_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/white_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/cyan_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/light_blue_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/orange_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/magenta_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "bakery:recipes/sandwich": {
+    "criteria": {
+      "has_bread": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/lime_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/light_gray_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/black_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/purple_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/brown_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/aged_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "davespotioneering:recipes/tools/pink_umbrella": {
+    "criteria": {
+      "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "betternether:root": {
+    "criteria": {
+      "welcome": "2025-04-11 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "betterend:root": {
+    "criteria": {
+      "welcome": "2025-04-11 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "graveyard:graveyard/haunted_house": {
+    "criteria": {
+      "haunted_house": "2025-04-11 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:parent": {
+    "criteria": {
+      "load_in_world": "2025-04-11 02:14:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:swamp": "2025-04-11 02:14:39 +0000"
+    },
+    "done": false
+  },
   "regions_unexplored:recipes/transportation/maple_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
@@ -47,52 +556,15 @@
     },
     "done": true
   },
-  "spellbladenext:spellblades/root": {
-    "criteria": {
-      "always": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/bone_meal": {
-    "criteria": {
-      "has_tooth": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "guardiansgalore:blaze_bell": {
-    "criteria": {
-      "has_gold_ingot": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/magnolia_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
-  "simplyswords:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/jungle_cog": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/crafting_table": {
-    "criteria": {
-      "unlock_right_away": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_elephant_from_campfire_cooking": {
-    "criteria": {
-      "has_elephant": "2025-04-11 02:14:37 +0000",
-      "has_cooked_elephant": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
@@ -114,12 +586,6 @@
     },
     "done": true
   },
-  "toms_storage:unlock_netherite": {
-    "criteria": {
-      "inv_changed-netherite": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/oak_drakkar": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
@@ -129,18 +595,6 @@
   "smallships:recipes/transportation/jungle_brigg": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_chest": {
-    "criteria": {
-      "inv_changed-chest": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/blue_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
     },
     "done": true
   },
@@ -156,65 +610,9 @@
     },
     "done": true
   },
-  "livingthings:recipes/cooked_giraffe": {
-    "criteria": {
-      "has_giraffe": "2025-04-11 02:14:37 +0000",
-      "has_cooked_giraffe": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "betternether:root": {
-    "criteria": {
-      "welcome": "2025-04-11 02:14:39 +0000"
-    },
-    "done": true
-  },
-  "betterend:root": {
-    "criteria": {
-      "welcome": "2025-04-11 02:14:39 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_ostrich_from_smoking": {
-    "criteria": {
-      "has_ostrich": "2025-04-11 02:14:37 +0000",
-      "has_cooked_ostrich": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/armored_ice_skates": {
-    "criteria": {
-      "has_fur_boots": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "graveyard:graveyard/haunted_house": {
-    "criteria": {
-      "haunted_house": "2025-04-11 02:14:39 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "betterdungeons:root": {
-    "criteria": {
-      "always": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "meadow:recipes/cheese_bread": {
-    "criteria": {
-      "has_bread": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/misc/snowflake_banner_pattern": {
-    "criteria": {
-      "has_packed_snowball": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
@@ -230,40 +628,9 @@
     },
     "done": true
   },
-  "variantshields:recipes/decorations/shield": {
-    "criteria": {
-      "has_variant_item": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_ostrich_from_campfire_cooking": {
-    "criteria": {
-      "has_ostrich": "2025-04-11 02:14:37 +0000",
-      "has_cooked_ostrich": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/green_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/lexicon": {
-    "criteria": {
-      "has_book": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/yellow_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
     },
     "done": true
   },
@@ -279,47 +646,15 @@
     },
     "done": true
   },
-  "livingthings:recipes/cooked_elephant": {
-    "criteria": {
-      "has_elephant": "2025-04-11 02:14:37 +0000",
-      "has_cooked_elephant": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "promenade:recipes/crafting/maple/boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
-  "rpg_classes:root": {
-    "criteria": {
-      "always": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "meadow:main/root": {
-    "criteria": {
-      "seeds": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_ostrich": {
-    "criteria": {
-      "has_ostrich": "2025-04-11 02:14:37 +0000",
-      "has_cooked_ostrich": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/socotra_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "mythicmobs:mythicmobs": {
-    "criteria": {
-      "tick": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
@@ -341,78 +676,15 @@
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_leggings": {
-    "criteria": {
-      "has_fur_armor": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "soaringstructures2:soaringstart": {
-    "criteria": {
-      "adv_test": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/mangrove_galley": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
-  "vinery:main/root": {
-    "criteria": {
-      "seeds": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "totw_reworked:root": {
-    "criteria": {
-      "sample_trigger": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_elephant_from_smoking": {
-    "criteria": {
-      "has_elephant": "2025-04-11 02:14:37 +0000",
-      "has_cooked_elephant": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/mangrove_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/combat/shield": {
-    "criteria": {
-      "has_the_recipe": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/gray_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_giraffe_from_campfire_cooking": {
-    "criteria": {
-      "has_giraffe": "2025-04-11 02:14:37 +0000",
-      "has_cooked_giraffe": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_lion_from_smoking": {
-    "criteria": {
-      "has_lion": "2025-04-11 02:14:37 +0000",
-      "has_cooked_lion": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
@@ -428,40 +700,15 @@
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/ice_skates": {
-    "criteria": {
-      "has_fur_boots": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/birch_brigg": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
-  "guardiansgalore:guardian_block_granite": {
-    "criteria": {
-      "has_stone": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/baobab_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "guardiansgalore:guardian_bowls": {
-    "criteria": {
-      "has_bowl": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "toms_storage:unlock_dia_pearl": {
-    "criteria": {
-      "inv_changed-ender_pearl": "2025-04-11 02:14:37 +0000",
-      "inv_changed-diamond": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
@@ -489,12 +736,6 @@
     },
     "done": true
   },
-  "guardiansgalore:guardian_block": {
-    "criteria": {
-      "has_stone": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/joshua_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
@@ -507,40 +748,9 @@
     },
     "done": true
   },
-  "toms_storage:unlock_glowstone": {
-    "criteria": {
-      "inv_changed-glowstone": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_giraffe_from_smoking": {
-    "criteria": {
-      "has_giraffe": "2025-04-11 02:14:37 +0000",
-      "has_cooked_giraffe": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/brewing/compound_brewing_stand": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/red_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/dark_oak_brigg": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "repurposed_structures:root": {
-    "criteria": {
-      "always": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
@@ -556,12 +766,6 @@
     },
     "done": true
   },
-  "archon:root": {
-    "criteria": {
-      "tick": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/transportation/bamboo_raft": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
@@ -574,19 +778,6 @@
     },
     "done": true
   },
-  "livingthings:recipes/cooked_lion_from_campfire_cooking": {
-    "criteria": {
-      "has_lion": "2025-04-11 02:14:37 +0000",
-      "has_cooked_lion": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "wetlands:root": {
-    "criteria": {
-      "find_swamp": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/kapok_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
@@ -596,12 +787,6 @@
   "regions_unexplored:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/gilded_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
     },
     "done": true
   },
@@ -623,66 +808,15 @@
     },
     "done": true
   },
-  "livingthings:recipes/cooked_lion": {
-    "criteria": {
-      "has_lion": "2025-04-11 02:14:37 +0000",
-      "has_cooked_lion": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/larch_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
-  "livingthings:recipes/cooked_crab_from_campfire_cooking": {
-    "criteria": {
-      "has_crab": "2025-04-11 02:14:37 +0000",
-      "has_cooked_crab": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/white_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "bakery:main/root": {
-    "criteria": {
-      "seeds": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/acacia_galley": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/cyan_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_crab_from_smoking": {
-    "criteria": {
-      "has_crab": "2025-04-11 02:14:37 +0000",
-      "has_cooked_crab": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/light_blue_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "more_rpg_content:root": {
-    "criteria": {
-      "always": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
@@ -698,27 +832,9 @@
     },
     "done": true
   },
-  "guardiansgalore:guardian_block_sandstone": {
-    "criteria": {
-      "has_stone": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/spruce_drakkar": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/orange_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "regions_unexplored:parent": {
-    "criteria": {
-      "load_in_world": "2025-04-11 02:14:39 +0000"
     },
     "done": true
   },
@@ -746,28 +862,9 @@
     },
     "done": true
   },
-  "davespotioneering:recipes/tools/magenta_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
   "regions_unexplored:recipes/transportation/eucalyptus_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "livingthings:recipes/cooked_crab": {
-    "criteria": {
-      "has_crab": "2025-04-11 02:14:37 +0000",
-      "has_cooked_crab": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "bakery:recipes/sandwich": {
-    "criteria": {
-      "has_bread": "2025-04-11 02:14:38 +0000"
     },
     "done": true
   },
@@ -777,33 +874,9 @@
     },
     "done": true
   },
-  "guardiansgalore:guardian_block_diorite": {
-    "criteria": {
-      "has_stone": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_helmet": {
-    "criteria": {
-      "has_fur_armor": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/lime_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/oak_cog": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "lootr:root": {
-    "criteria": {
-      "always_true": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
@@ -826,13 +899,6 @@
     },
     "done": true
   },
-  "livingthings:recipes/arrow": {
-    "criteria": {
-      "has_feather": "2025-04-11 02:14:37 +0000",
-      "has_tooth": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "bewitchment:recipes/transportation/cypress_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
@@ -842,12 +908,6 @@
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/light_gray_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
     },
     "done": true
   },
@@ -887,81 +947,15 @@
     },
     "done": true
   },
-  "davespotioneering:recipes/tools/black_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "farmersdelight:main/root": {
-    "criteria": {
-      "seeds": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/acacia_drakkar": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
-    "criteria": {
-      "has_fur_armor": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/purple_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
   "smallships:recipes/transportation/cherry_galley": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
-    "criteria": {
-      "has_mangrove_roots": "2025-04-11 02:24:35 +0000"
-    },
-    "done": true
-  },
-  "frostiful:recipes/combat/armor/fur_padded_chainmail_boots": {
-    "criteria": {
-      "has_fur_armor": "2025-04-11 02:14:37 +0000"
-    },
-    "done": true
-  },
-  "minecraft:adventure/adventuring_time": {
-    "criteria": {
-      "minecraft:swamp": "2025-04-11 02:14:39 +0000"
-    },
-    "done": false
-  },
-  "davespotioneering:recipes/tools/brown_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/aged_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "davespotioneering:recipes/tools/pink_umbrella": {
-    "criteria": {
-      "has_shield": "2025-04-11 02:14:38 +0000"
-    },
-    "done": true
-  },
-  "besmirchment:demonic_deed": {
-    "criteria": {
-      "has_item": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
@@ -974,6 +968,96 @@
   "smallships:recipes/transportation/cherry_cog": {
     "criteria": {
       "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-04-11 02:24:35 +0000"
+    },
+    "done": true
+  },
+  "mutantmonsters:root": {
+    "criteria": {
+      "killed_something": "2025-04-11 02:44:43 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/hedgewitch_wool": {
+    "criteria": {
+      "has_item": "2025-04-11 02:44:48 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/decorations/besmirched_wool": {
+    "criteria": {
+      "has_item": "2025-04-11 02:44:48 +0000"
+    },
+    "done": true
+  },
+  "meadow:main/wool_collector": {
+    "criteria": {
+      "meadow:inky_wool": "2025-04-11 02:44:48 +0000"
+    },
+    "done": false
+  },
+  "bewitchment:recipes/decorations/alchemist_wool": {
+    "criteria": {
+      "has_item": "2025-04-11 02:44:48 +0000"
+    },
+    "done": true
+  },
+  "clutter:recipes/misc/pet_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-11 02:44:48 +0000"
+    },
+    "done": true
+  },
+  "mcda:recipes/crafting_items/glut_charm": {
+    "criteria": {
+      "has_mutton": "2025-04-11 02:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-11 02:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-11 02:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2025-04-11 02:44:43 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pasta_with_mutton_chop": {
+    "criteria": {
+      "has_any_ingredient": "2025-04-11 02:44:49 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-11 02:44:48 +0000"
+    },
+    "done": true
+  },
+  "immersive_armors:recipes/misc/robe": {
+    "criteria": {
+      "has_item": "2025-04-11 02:44:48 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-11 02:44:49 +0000"
     },
     "done": true
   },
