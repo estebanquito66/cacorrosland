@@ -6801,3 +6801,5 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [02:15:03] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2341ms or 46 ticks behind
 [02:15:31] [Server thread/INFO]: Player literal{estebanquito67} was randomly assigned the following Origin: digs_dnd_origins:dwarf, for layer: origins:origin
 [02:15:42] [Server thread/INFO]: Player literal{estebanquito67} chose Origin: digs_dnd_origins:dwarf/hill, for layer: origins:dwarf
+[02:25:16] [Server thread/INFO]: estebanquito67 lost connection: Disconnected
+[02:25:16] [Server thread/INFO]: estebanquito67 left the game

@@ -11,6 +11,42 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/maple_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_galley": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "deeperdarker:recipes/transportation/echo_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_cog": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_cog": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/juniper_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "spellbladenext:spellblades/root": {
     "criteria": {
       "always": "2025-04-11 02:14:37 +0000"
@@ -29,9 +65,21 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/magnolia_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "simplyswords:grant_book_on_first_join": {
     "criteria": {
       "tick": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_cog": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -48,9 +96,39 @@
     },
     "done": true
   },
+  "slayersbeasts:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "slayersbeasts:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_brigg": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -63,6 +141,18 @@
   "davespotioneering:recipes/tools/blue_umbrella": {
     "criteria": {
       "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_galley": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_cog": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -104,6 +194,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "betterdungeons:root": {
     "criteria": {
       "always": "2025-04-11 02:14:37 +0000"
@@ -119,6 +215,18 @@
   "frostiful:recipes/misc/snowflake_banner_pattern": {
     "criteria": {
       "has_packed_snowball": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "slayersbeasts:recipes/transportation/aspen_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_brigg": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -147,9 +255,27 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "davespotioneering:recipes/tools/yellow_umbrella": {
     "criteria": {
       "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/bamboo_cog": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/pine_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -157,6 +283,12 @@
     "criteria": {
       "has_elephant": "2025-04-11 02:14:37 +0000",
       "has_cooked_elephant": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/maple/boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -179,9 +311,33 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/socotra_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "mythicmobs:mythicmobs": {
     "criteria": {
       "tick": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_brigg": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/dead_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -203,6 +359,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/mangrove_galley": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "vinery:main/root": {
     "criteria": {
       "seeds": "2025-04-11 02:14:37 +0000"
@@ -219,6 +381,12 @@
     "criteria": {
       "has_elephant": "2025-04-11 02:14:37 +0000",
       "has_cooked_elephant": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -248,15 +416,39 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/dark_oak_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/jungle_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/ice_skates": {
     "criteria": {
       "has_fur_boots": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
+  "smallships:recipes/transportation/birch_brigg": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "guardiansgalore:guardian_block_granite": {
     "criteria": {
       "has_stone": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/baobab_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -273,9 +465,45 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/cherry_brigg": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_brigg": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "slayersbeasts:recipes/transportation/desert_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_cog": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "guardiansgalore:guardian_block": {
     "criteria": {
       "has_stone": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/joshua_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -304,15 +532,45 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/dark_oak_brigg": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "repurposed_structures:root": {
     "criteria": {
       "always": "2025-04-11 02:14:37 +0000"
     },
     "done": true
   },
+  "slayersbeasts:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_galley": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "archon:root": {
     "criteria": {
       "tick": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_brigg": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -329,9 +587,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "davespotioneering:recipes/tools/gilded_umbrella": {
     "criteria": {
       "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/elder_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/mangrove_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/misc/sail": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -339,6 +627,12 @@
     "criteria": {
       "has_lion": "2025-04-11 02:14:37 +0000",
       "has_cooked_lion": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/larch_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -358,6 +652,12 @@
   "bakery:main/root": {
     "criteria": {
       "seeds": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/acacia_galley": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -386,9 +686,27 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/jungle_galley": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_galley": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "guardiansgalore:guardian_block_sandstone": {
     "criteria": {
       "has_stone": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/spruce_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -404,9 +722,39 @@
     },
     "done": true
   },
+  "regions_unexplored:recipes/transportation/blackwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "slayersbeasts:recipes/transportation/kapok_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_brigg": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "bewitchment:recipes/transportation/dragons_blood_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "davespotioneering:recipes/tools/magenta_umbrella": {
     "criteria": {
       "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/eucalyptus_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -420,6 +768,12 @@
   "bakery:recipes/sandwich": {
     "criteria": {
       "has_bread": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/palm_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -441,9 +795,34 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/oak_cog": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "lootr:root": {
     "criteria": {
       "always_true": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/oak_galley": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/oak_boat": {
+    "criteria": {
+      "has_the_recipe": "2025-04-11 02:24:22 +0000",
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -454,9 +833,57 @@
     },
     "done": true
   },
+  "bewitchment:recipes/transportation/cypress_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "davespotioneering:recipes/tools/light_gray_umbrella": {
     "criteria": {
       "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/dark_oak_cog": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/birch_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/sakura/boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/mauve_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/redwood_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "promenade:recipes/crafting/palm/boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
@@ -472,6 +899,12 @@
     },
     "done": true
   },
+  "smallships:recipes/transportation/acacia_drakkar": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
   "frostiful:recipes/combat/armor/fur_padded_chainmail_chestplate": {
     "criteria": {
       "has_fur_armor": "2025-04-11 02:14:37 +0000"
@@ -481,6 +914,18 @@
   "davespotioneering:recipes/tools/purple_umbrella": {
     "criteria": {
       "has_shield": "2025-04-11 02:14:38 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_galley": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/muddy_mangrove_roots": {
+    "criteria": {
+      "has_mangrove_roots": "2025-04-11 02:24:35 +0000"
     },
     "done": true
   },
@@ -517,6 +962,18 @@
   "besmirchment:demonic_deed": {
     "criteria": {
       "has_item": "2025-04-11 02:14:37 +0000"
+    },
+    "done": true
+  },
+  "regions_unexplored:recipes/transportation/willow_boat": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
+    },
+    "done": true
+  },
+  "smallships:recipes/transportation/cherry_cog": {
+    "criteria": {
+      "in_water": "2025-04-11 02:24:22 +0000"
     },
     "done": true
   },
