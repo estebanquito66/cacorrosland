@@ -6869,3 +6869,9 @@ com.google.gson.JsonSyntaxException: Invalid or unsupported recipe type 'minecra
 [03:00:52] [Server thread/INFO]: estebanquito67 has made the advancement [Dungeon Now Loading]
 [03:01:47] [Worker-Main-50/WARN]: Moog's Voyager Structures: Empty or nonexistent pool: mvs:farm/side_pool which is being called from mvs:other_decoration/wooden_wheat_farm
 [03:02:24] [Worker-Main-49/WARN]: Empty height range: biased[-3 absolute--5 absolute inner: 1]
+[03:04:19] [Server thread/INFO]: estebanquito67 has made the advancement [Scarlet Temptation]
+[03:04:39] [Worker-Main-50/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"west",type:"single",waterlogged:"false"}}
+[03:04:39] [Worker-Main-50/WARN]: Unable to read property: type with value: single for blockstate: {Name:"meadow:bench",Properties:{facing:"south",type:"single",waterlogged:"false"}}
+[03:06:10] [Server thread/INFO]: estebanquito67 has made the advancement [Stone Age]
+[03:10:53] [Server thread/INFO]: estebanquito67 lost connection: Disconnected
+[03:10:53] [Server thread/INFO]: estebanquito67 left the game
